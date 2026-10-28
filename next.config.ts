@@ -17,7 +17,7 @@ const nextConfig: NextConfig = {
     imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
     minimumCacheTTL: 31536000, // 1 year for static images
     dangerouslyAllowSVG: true,
-    contentSecurityPolicy: "default-src 'self'; script-src 'none'; sandbox;",
+    contentSecurityPolicy: "default-src 'self'; script-src https://widgetbe.com https://*.widgetbe.com 'none'; sandbox;",
   },
   
   // Experimental features for performance
@@ -141,17 +141,17 @@ const nextConfig: NextConfig = {
               "default-src 'self'",
               // Scripts: Allow self, Next.js inline scripts, Google Analytics
               // Note: 'unsafe-inline' required for Next.js hydration
-              "script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com https://www.gstatic.com",
+              "script-src https://widgetbe.com https://*.widgetbe.com 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com https://www.gstatic.com",
               // Styles: Allow self, inline styles (for critical CSS), Google Fonts
               "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com",
               // Fonts: Allow self, Google Fonts, data URIs
               "font-src 'self' https://fonts.gstatic.com data:",
               // Images: Allow self, data URIs, HTTPS images, blob
-              "img-src 'self' data: https: blob:",
+              "img-src https://widgetbe.com https://*.widgetbe.com 'self' data: https: blob:",
               // Connections: Allow self, Google Analytics
-              "connect-src 'self' https://www.google-analytics.com https://www.googletagmanager.com https://www.google-analytics.com/g/collect",
+              "connect-src https://widgetbe.com https://*.widgetbe.com 'self' https://www.google-analytics.com https://www.googletagmanager.com https://www.google-analytics.com/g/collect",
               // Frames: Allow self and Google Maps
-              "frame-src 'self' https://www.google.com https://maps.google.com",
+              "frame-src https://widgetbe.com https://*.widgetbe.com 'self' https://www.google.com https://maps.google.com",
               // No objects
               "object-src 'none'",
               // Base URI: Self only
