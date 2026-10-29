@@ -224,8 +224,8 @@ export const getCommunityFAQs = (communityName: string): FAQ[] => {
   if (communityName === 'Huntington Beach') {
     baseFAQs.push({
       id: 'huntington-beach-6',
-      question: 'How do beach proximity and family-friendly neighborhoods affect probate sales in Huntington Beach?',
-      answer: 'Huntington Beach\'s beach proximity and family-friendly reputation attract specific buyer demographics. Probate sales benefit from understanding these market dynamics, school districts, and lifestyle factors that drive property values. We combine probate expertise with local market knowledge to position properties effectively for target buyers.',
+      question: 'How do beach proximity and neighborhoods affect probate sales in Huntington Beach?',
+      answer: 'Huntington Beach\'s beach proximity and reputation attract specific buyer demographics. Probate sales benefit from understanding these market dynamics, school districts, and lifestyle factors that drive property values. We combine probate expertise with local market knowledge to position properties effectively for target buyers.',
     });
   }
 
@@ -244,7 +244,7 @@ export const communities: Community[] = [
     id: '2',
     name: 'Irvine',
     slug: 'irvine',
-    description: 'Master-planned city with top-rated schools, extensive parks, and thriving tech corridor.',
+    description: 'Master-planned city with nearby public schools, extensive parks, and thriving tech corridor.',
     image: '/placeholder-community.jpg',
   },
   {
@@ -272,7 +272,7 @@ export const communities: Community[] = [
     id: '6',
     name: 'Huntington Beach',
     slug: 'huntington-beach',
-    description: 'Surf City USA with miles of beaches, family-friendly neighborhoods, and active lifestyle.',
+    description: 'Surf City USA with miles of beaches, neighborhoods, and active lifestyle.',
     image: '/placeholder-community.jpg',
   },
 ];

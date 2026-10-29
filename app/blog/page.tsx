@@ -74,7 +74,7 @@ export default function BlogPage() {
     {
       id: '3',
       title: 'Best Neighborhoods for Families in Henderson',
-      excerpt: 'A comprehensive guide to family-friendly communities with great schools and amenities.',
+      excerpt: 'A comprehensive guide to communities with nearby public schools and amenities.',
       image: '/placeholder-blog.jpg',
       date: 'December 15, 2024',
       category: 'Communities',

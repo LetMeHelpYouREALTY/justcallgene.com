@@ -58,7 +58,7 @@ export default function MarketUpdatesPage() {
       id: '5',
       title: 'Irvine Probate Real Estate Market Trends | Master-Planned Community Probate Sales',
       date: 'November 20, 2024',
-      excerpt: 'Irvine probate real estate market demonstrates strong performance with master-planned community properties attracting families and professionals. Top-rated schools and extensive amenities support probate property values.',
+      excerpt: 'Irvine probate real estate market demonstrates strong performance with master-planned community properties attracting families and professionals. Nearby public schools and extensive amenities support probate property values.',
       category: 'Local Market',
     },
     {
@@ -86,7 +86,7 @@ export default function MarketUpdatesPage() {
       id: '9',
       title: 'Huntington Beach Probate Real Estate Market | Surf City USA Probate Properties',
       date: 'October 30, 2024',
-      excerpt: 'Huntington Beach probate real estate market offers beach community properties with miles of beaches, family-friendly neighborhoods, and active lifestyle amenities. Probate properties attract buyers seeking Surf City USA lifestyle.',
+      excerpt: 'Huntington Beach probate real estate market offers beach community properties with miles of beaches, neighborhoods, and active lifestyle amenities. Probate properties attract buyers seeking Surf City USA lifestyle.',
       category: 'Local Market',
     },
   ];

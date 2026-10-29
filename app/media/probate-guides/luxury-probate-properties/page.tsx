@@ -75,7 +75,7 @@ export default function LuxuryProbatePropertiesPage() {
             </h2>
 
             <p>
-              Luxury probate properties in Orange County typically include high-value estates, coastal properties with ocean views, exclusive community homes, and properties with premium features and amenities. These properties often represent significant estate values, requiring specialized probate expertise to ensure successful sales that maximize estate values while meeting court requirements.
+              Luxury probate properties in Orange County typically include high-value estates, coastal properties with ocean views, community homes, and properties with premium features and amenities. These properties often represent significant estate values, requiring specialized probate expertise to ensure successful sales that maximize estate values while meeting court requirements.
             </p>
 
             <p>
@@ -87,11 +87,11 @@ export default function LuxuryProbatePropertiesPage() {
             </h3>
 
             <p>
-              Newport Beach luxury probate properties include some of Orange County's most valuable real estate, with properties featuring ocean views, yacht access, and exclusive locations. Areas like Balboa Peninsula, Newport Coast, and Lido Isle offer premium luxury probate properties that command top dollar due to ocean views, beach access, and exclusive community character.
+              Newport Beach luxury probate properties include some of Orange County's most valuable real estate, with properties featuring ocean views, yacht access, and exclusive locations. Areas like Balboa Peninsula, Newport Coast, and Lido Isle offer premium luxury probate properties that command top dollar due to ocean views, beach access, and community character.
             </p>
 
             <p>
-              Newport Beach luxury probate properties often include beachfront estates, coastal mansions, and exclusive community homes with premium features. These properties attract high-net-worth buyers seeking Orange County's finest coastal living, supporting strong probate property values. Our probate real estate specialists understand Newport Beach's luxury market dynamics, ensuring probate properties achieve optimal values.
+              Newport Beach luxury probate properties often include beachfront estates, coastal mansions, and community homes with premium features. These properties attract high-net-worth buyers seeking Orange County's finest coastal living, supporting strong probate property values. Our probate real estate specialists understand Newport Beach's luxury market dynamics, ensuring probate properties achieve optimal values.
             </p>
 
             <h3 className="text-2xl font-bold text-neutral-900 mt-8 mb-4">
