@@ -38,7 +38,7 @@ const blogPosts: Record<string, {
 
 4. **Consider the Climate**: Las Vegas has a desert climate with hot summers. Consider energy-efficient homes and landscaping that can handle the heat.
 
-5. **School Districts Matter**: Even if you don't have children, good school districts can significantly impact property values.
+5. **School Districts Matter**: School attendance zones can affect property values for every owner.
 
 6. **Water Rights and Utilities**: Understand water rights and utility costs, which can be higher in desert climates.
 
@@ -78,23 +78,23 @@ const blogPosts: Record<string, {
   '3': {
     id: '3',
     title: 'Best Neighborhoods for Families in Henderson',
-    excerpt: 'A comprehensive guide to family-friendly communities with great schools and amenities.',
+    excerpt: 'A comprehensive guide to communities with nearby public schools and amenities.',
     image: '/placeholder-blog.jpg',
     date: 'December 15, 2024',
     category: 'Communities',
     content: `Henderson is consistently ranked as one of the best places to raise a family in Nevada. Here are the top neighborhoods for families:
 
-**Green Valley**: This master-planned community offers excellent schools, numerous parks, and family-friendly amenities. The area has a strong sense of community and is known for its safety.
+**Green Valley**: This master-planned community offers nearby schools, numerous parks, and community amenities. The area has a strong sense of community.
 
-**Anthem**: A premier community with luxury homes, top-rated schools, and resort-style amenities. The area features beautiful parks, trails, and recreational facilities.
+**Anthem**: A premier community with luxury homes, nearby public schools, and resort-style amenities. The area features beautiful parks, trails, and recreational facilities.
 
-**Seven Hills**: Known for its excellent school district and family-oriented atmosphere. The community offers a variety of housing options and great amenities.
+**Seven Hills**: Known for its school district atmosphere. The community offers a variety of housing options and great amenities.
 
-**MacDonald Ranch**: This newer development offers modern homes with energy-efficient features, excellent schools, and beautiful parks.
+**MacDonald Ranch**: This newer development offers modern homes with energy-efficient features, nearby public schools, and beautiful parks.
 
-**Lake Las Vegas**: While known for luxury, this area also offers family-friendly neighborhoods with access to the lake, golf courses, and excellent schools.
+**Lake Las Vegas**: While known for luxury, this area also offers master-planned neighborhoods with access to the lake, golf courses, and nearby schools.
 
-Each of these neighborhoods offers something unique, but they all share common traits: excellent schools, safe communities, and family-friendly amenities.`,
+Each of these neighborhoods offers something unique, but they all share common traits: nearby schools, parks, and community amenities.`,
   },
   '4': {
     id: '4',
@@ -142,7 +142,7 @@ Each of these neighborhoods offers something unique, but they all share common t
 
 **Market Cycles**: Understanding Las Vegas market cycles is crucial for timing your investments.
 
-**Location Matters**: Focus on areas with strong fundamentals: good schools, employment centers, and amenities.
+**Location Matters**: Focus on areas with strong fundamentals: nearby public schools, employment centers, and amenities.
 
 **Due Diligence**: Always conduct thorough research on neighborhoods, property conditions, and market trends before investing.`,
   },
