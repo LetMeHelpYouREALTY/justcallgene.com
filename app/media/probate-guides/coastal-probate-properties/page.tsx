@@ -88,11 +88,11 @@ export default function CoastalProbatePropertiesPage() {
             </h3>
 
             <p>
-              Newport Beach coastal probate properties include some of Orange County's most valuable real estate, with properties featuring ocean views, yacht access, and exclusive locations. Areas like Balboa Peninsula, Newport Coast, and Lido Isle offer premium coastal probate properties that command top dollar due to ocean views, beach access, and exclusive community character.
+              Newport Beach coastal probate properties include some of Orange County's most valuable real estate, with properties featuring ocean views, yacht access, and exclusive locations. Areas like Balboa Peninsula, Newport Coast, and Lido Isle offer premium coastal probate properties that command top dollar due to ocean views, beach access, and community character.
             </p>
 
             <p>
-              Newport Beach probate properties often include beachfront estates, coastal mansions, and exclusive community homes with premium features. These properties attract luxury buyers seeking Orange County's finest coastal living, supporting strong probate property values. Our probate real estate specialists understand Newport Beach's luxury coastal market dynamics, ensuring probate properties achieve optimal values.
+              Newport Beach probate properties often include beachfront estates, coastal mansions, and community homes with premium features. These properties attract luxury buyers seeking Orange County's finest coastal living, supporting strong probate property values. Our probate real estate specialists understand Newport Beach's luxury coastal market dynamics, ensuring probate properties achieve optimal values.
             </p>
 
             <h3 className="text-2xl font-bold text-neutral-900 mt-8 mb-4">

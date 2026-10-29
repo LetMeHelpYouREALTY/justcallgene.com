@@ -62,7 +62,7 @@ export default function CommunitiesPage() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="prose prose-lg max-w-none">
               <p className="text-lg text-neutral-700 leading-relaxed mb-6">
-                Orange County, California, is home to some of the most desirable communities in the United States. From world-class beaches and luxury coastal estates to master-planned cities with top-rated schools, Orange County offers diverse property types that often become part of probate estates. Our probate real estate services span all of Orange County's premier communities.
+                Orange County, California, is home to some of the most desirable communities in the United States. From world-class beaches and luxury coastal estates to master-planned cities with nearby public schools, Orange County offers diverse property types that often become part of probate estates. Our probate real estate services span all of Orange County's premier communities.
               </p>
               
               <p className="text-lg text-neutral-700 leading-relaxed mb-6">
@@ -71,7 +71,7 @@ export default function CommunitiesPage() {
 
               <h2 className="text-3xl font-bold text-neutral-900 mt-12 mb-6">Probate Property Sales Throughout Orange County</h2>
               <p className="text-lg text-neutral-700 leading-relaxed mb-6">
-                Orange County's diverse communities mean probate properties can range from coastal estates to master-planned family homes. Our probate real estate expertise spans all of Orange County's markets, ensuring we understand the unique characteristics, pricing dynamics, and court requirements for each community. Whether the probate property is in a coastal community, master-planned city, or established neighborhood, we provide specialized probate services tailored to each area's market.
+                Orange County's diverse communities mean probate properties can range from coastal estates to master-planned family homes. Our probate real estate expertise spans all of Orange County's markets, ensuring we understand the unique characteristics, pricing dynamics, and court requirements for each community. Whether the probate property is in a coastal community, master-planned city, or older neighborhood, we provide specialized probate services tailored to each area's market.
               </p>
 
               <h3 className="text-2xl font-bold text-neutral-900 mt-8 mb-4">Coastal Probate Properties</h3>
@@ -81,7 +81,7 @@ export default function CommunitiesPage() {
 
               <h3 className="text-2xl font-bold text-neutral-900 mt-8 mb-4">Master-Planned Community Probate Sales</h3>
               <p className="text-lg text-neutral-700 leading-relaxed mb-6">
-                Communities like Irvine represent master-planned developments with carefully designed neighborhoods, extensive amenities, top-rated schools, and thriving business districts. Probate properties in these communities often include family homes, condominiums, and townhomes. Our probate services in master-planned communities ensure proper handling of HOA requirements, community regulations, and market positioning for successful probate sales.
+                Communities like Irvine represent master-planned developments with carefully designed neighborhoods, extensive amenities, nearby public schools, and thriving business districts. Probate properties in these communities often include family homes, condominiums, and townhomes. Our probate services in master-planned communities ensure proper handling of HOA requirements, community regulations, and market positioning for successful probate sales.
               </p>
 
               <h3 className="text-2xl font-bold text-neutral-900 mt-8 mb-4">Probate Property Value Maximization</h3>
@@ -161,9 +161,9 @@ export default function CommunitiesPage() {
               </Card>
 
               <Card variant="elevated" className="p-6">
-                <h3 className="text-xl font-bold text-neutral-900 mb-3">Top-Rated Schools</h3>
+                <h3 className="text-xl font-bold text-neutral-900 mb-3">Nearby Public Schools</h3>
                 <p className="text-neutral-700">
-                  Orange County is home to some of the best public and private schools in California. Communities like Irvine consistently rank among the top school districts in the nation, making Orange County an ideal choice for families prioritizing education.
+                  Orange County has many public and private school options, including Irvine Unified School District. Check the California Department of Education for current school data.
                 </p>
               </Card>
 
@@ -191,7 +191,7 @@ export default function CommunitiesPage() {
               <Card variant="elevated" className="p-6">
                 <h3 className="text-xl font-bold text-neutral-900 mb-3">Diverse Probate Properties</h3>
                 <p className="text-neutral-700">
-                  Orange County probate estates include diverse property types, from luxury beachfront estates to family-friendly suburban homes, from modern condominiums to historic properties. Our probate expertise spans all property types, ensuring proper handling regardless of the property's characteristics or location.
+                  Orange County probate estates include diverse property types, from luxury beachfront estates to suburban homes, from modern condominiums to historic properties. Our probate expertise spans all property types, ensuring proper handling regardless of the property's characteristics or location.
                 </p>
               </Card>
             </div>
@@ -217,7 +217,7 @@ export default function CommunitiesPage() {
 
               <h3 className="text-2xl font-bold text-neutral-900 mt-8 mb-4">Master-Planned Community Probate Sales</h3>
               <p className="text-lg text-neutral-700 leading-relaxed mb-6">
-                Communities like Irvine offer master-planned developments with excellent schools, planned amenities, and strong community infrastructure. Probate properties in these communities often include family homes, condominiums, and townhomes. Our probate services ensure proper handling of HOA requirements, community regulations, and market positioning for successful probate sales. These areas have demonstrated strong long-term appreciation, which benefits probate estates.
+                Communities like Irvine offer master-planned developments with nearby public schools, planned amenities, and strong community infrastructure. Probate properties in these communities often include family homes, condominiums, and townhomes. Our probate services ensure proper handling of HOA requirements, community regulations, and market positioning for successful probate sales. These areas have demonstrated strong long-term appreciation, which benefits probate estates.
               </p>
 
               <h3 className="text-2xl font-bold text-neutral-900 mt-8 mb-4">Probate Market Trends</h3>

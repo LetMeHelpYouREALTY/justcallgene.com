@@ -63,7 +63,7 @@ export default function MediaPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="prose prose-lg max-w-none mb-12">
             <p className="text-lg text-neutral-700 leading-relaxed mb-6">
-              Orange County, California, is home to some of the most desirable communities in Southern California, and probate properties in these premier markets require specialized expertise. From world-class beaches and luxury coastal estates in Newport Beach and Corona Del Mar to master-planned cities like Irvine with top-rated schools, each Orange County community offers unique characteristics and market dynamics that impact probate property sales. At Just Call Gene, located at 1 TECHNOLOGY DRIVE Suite I829G in Irvine, CA 92618, we provide comprehensive probate real estate services throughout Orange County, helping families navigate inherited property sales with expertise and compassion.
+              Orange County, California, is home to some of the most desirable communities in Southern California, and probate properties in these premier markets require specialized expertise. From world-class beaches and luxury coastal estates in Newport Beach and Corona Del Mar to master-planned cities like Irvine with nearby public schools, each Orange County community offers unique characteristics and market dynamics that impact probate property sales. At Just Call Gene, located at 1 TECHNOLOGY DRIVE Suite I829G in Irvine, CA 92618, we provide comprehensive probate real estate services throughout Orange County, helping families navigate inherited property sales with expertise and compassion.
             </p>
             <p className="text-lg text-neutral-700 leading-relaxed mb-6">
               Whether you're dealing with a probate property in coastal communities like Newport Beach, Laguna Beach, or Corona Del Mar, master-planned cities like Irvine, or vibrant communities like Costa Mesa and Huntington Beach, our market updates and videos offer comprehensive information about local real estate trends, community features, and probate market conditions. Our probate real estate specialists understand the unique requirements of court-ordered sales, estate property valuations, and probate transaction compliance across all Orange County markets.
@@ -94,7 +94,7 @@ export default function MediaPage() {
             
             <h3 className="text-2xl font-bold text-neutral-900 mt-8 mb-4">Master-Planned Community Probate Sales</h3>
             <p className="text-lg text-neutral-700 leading-relaxed mb-6">
-              Irvine, one of Orange County's largest master-planned communities, offers probate properties ranging from family homes to luxury condominiums. With top-rated schools, extensive parks, and thriving business districts, Irvine probate properties attract diverse buyer interest. Our probate services in Irvine ensure proper handling of HOA requirements, community regulations, and market positioning for successful probate sales. Similarly, Costa Mesa and Huntington Beach offer diverse probate property types, from single-family homes to multi-unit properties, each requiring specialized probate real estate expertise.
+              Irvine, one of Orange County's largest master-planned communities, offers probate properties ranging from family homes to luxury condominiums. With nearby public schools, extensive parks, and thriving business districts, Irvine probate properties attract diverse buyer interest. Our probate services in Irvine ensure proper handling of HOA requirements, community regulations, and market positioning for successful probate sales. Similarly, Costa Mesa and Huntington Beach offer diverse probate property types, from single-family homes to multi-unit properties, each requiring specialized probate real estate expertise.
             </p>
             
             <h3 className="text-2xl font-bold text-neutral-900 mt-8 mb-4">Probate Property Valuation and Market Analysis</h3>
@@ -166,7 +166,7 @@ export default function MediaPage() {
             
             <h3 className="text-2xl font-bold text-neutral-900 mt-8 mb-4">Master-Planned Community Benefits</h3>
             <p className="text-lg text-neutral-700 leading-relaxed mb-6">
-              Communities like Irvine offer probate properties in carefully planned neighborhoods with top-rated schools, extensive parks, and thriving business districts. These factors attract families and professionals, creating strong demand for probate properties in master-planned communities. Irvine's reputation for excellent schools, safe neighborhoods, and convenient location makes probate properties here particularly attractive to buyers. Our probate services in Irvine ensure properties are positioned to attract the right buyers and achieve optimal sale prices.
+              Communities like Irvine offer probate properties in carefully planned neighborhoods with nearby schools, extensive parks, and thriving business districts. These factors attract a wide range of buyers, creating strong demand for probate properties in master-planned communities. Irvine's master planning, nearby schools, and convenient location makes probate properties here particularly attractive to buyers. Our probate services in Irvine ensure properties are positioned to attract the right buyers and achieve optimal sale prices.
             </p>
             
             <h3 className="text-2xl font-bold text-neutral-900 mt-8 mb-4">Economic Stability and Growth</h3>
@@ -298,9 +298,9 @@ export default function MediaPage() {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
                 </svg>
               </div>
-              <h3 className="text-xl font-bold text-neutral-900 mb-2">Top-Rated Schools in Orange County</h3>
+              <h3 className="text-xl font-bold text-neutral-900 mb-2">Public Schools in Orange County</h3>
               <p className="text-neutral-600">
-                Excellent educational opportunities in master-planned communities like Irvine, with top-rated schools and extensive amenities, make Orange County probate properties attractive to families. School quality significantly impacts probate property values and buyer interest throughout Orange County.
+                Excellent educational opportunities in master-planned communities like Irvine, with nearby public schools and extensive amenities, make Orange County probate properties attractive to families. School quality significantly impacts probate property values and buyer interest throughout Orange County.
               </p>
             </div>
 

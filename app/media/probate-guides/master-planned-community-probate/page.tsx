@@ -67,7 +67,7 @@ export default function MasterPlannedCommunityProbatePage() {
         <div className="prose prose-lg max-w-none">
           <div className="text-neutral-700 leading-relaxed space-y-6">
             <p className="text-lg">
-              Master-planned communities like Irvine represent Orange County's largest and most comprehensive planned developments, offering probate properties with top-rated schools, extensive amenities, and thriving business districts. Understanding how to navigate probate property sales in master-planned communities requires specialized knowledge of HOA requirements, community regulations, and planned community market dynamics.
+              Master-planned communities like Irvine represent Orange County's largest and most comprehensive planned developments, offering probate properties with nearby public schools, extensive amenities, and thriving business districts. Understanding how to navigate probate property sales in master-planned communities requires specialized knowledge of HOA requirements, community regulations, and planned community market dynamics.
             </p>
 
             <h2 className="text-3xl font-bold text-neutral-900 mt-12 mb-6">
@@ -75,7 +75,7 @@ export default function MasterPlannedCommunityProbatePage() {
             </h2>
 
             <p>
-              Master-planned community probate properties in Orange County include properties in Irvine and other planned communities with carefully designed neighborhoods, extensive amenities, top-rated schools, and thriving business districts. These properties often attract families and professionals seeking comprehensive community features, supporting strong probate property values.
+              Master-planned community probate properties in Orange County include properties in Irvine and other planned communities with carefully designed neighborhoods, extensive amenities, nearby public schools, and thriving business districts. These properties often attract families and professionals seeking comprehensive community features, supporting strong probate property values.
             </p>
 
             <p>
@@ -87,11 +87,11 @@ export default function MasterPlannedCommunityProbatePage() {
             </h3>
 
             <p>
-              Irvine represents Orange County's largest master-planned community, offering probate properties with top-rated schools, extensive parks, and thriving business districts. Probate properties in Irvine attract families and professionals seeking comprehensive community features, supporting strong probate property values throughout Irvine neighborhoods.
+              Irvine represents Orange County's largest master-planned community, offering probate properties with nearby public schools, extensive parks, and thriving business districts. Probate properties in Irvine attract families and professionals seeking comprehensive community features, supporting strong probate property values throughout Irvine neighborhoods.
             </p>
 
             <p>
-              Irvine probate properties often include single-family homes, condominiums, and townhomes in carefully planned neighborhoods with excellent schools and extensive amenities. These properties benefit from Irvine's reputation for quality schools, safe neighborhoods, and convenient location, supporting strong probate property values. Our probate real estate specialists understand Irvine's master-planned community market dynamics, ensuring probate properties achieve optimal values.
+              Irvine probate properties often include single-family homes, condominiums, and townhomes in carefully planned neighborhoods with nearby schools and extensive amenities. These properties benefit from Irvine's master planning, nearby schools, and convenient location, supporting strong probate property values. Our probate real estate specialists understand Irvine's master-planned community market dynamics, ensuring probate properties achieve optimal values.
             </p>
 
             <h2 className="text-3xl font-bold text-neutral-900 mt-12 mb-6">
@@ -123,7 +123,7 @@ export default function MasterPlannedCommunityProbatePage() {
             </h3>
 
             <p>
-              Master-planned communities like Irvine are known for excellent schools, which significantly support probate property values and attract family buyers. Understanding school quality and family appeal helps position master-planned community probate properties optimally for successful sales. Our probate real estate specialists understand how school quality affects probate property values and buyer interest.
+              Master-planned communities like Irvine are known for nearby public schools, which significantly support probate property values and attract family buyers. Understanding school quality and family appeal helps position master-planned community probate properties optimally for successful sales. Our probate real estate specialists understand how school quality affects probate property values and buyer interest.
             </p>
 
             <h2 className="text-3xl font-bold text-neutral-900 mt-12 mb-6">
