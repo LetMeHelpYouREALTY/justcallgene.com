@@ -10,6 +10,7 @@ import { ScrollToTop } from "@/components/ui/ScrollToTop";
 import { ReadingProgress } from "@/components/ui/ReadingProgress";
 import { siteConfig } from "@/lib/config";
 import "./globals.css";
+import WidgetTracker from './widget-tracker'
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -199,6 +200,7 @@ export default function RootLayout({
         
         <FloatingCTA />
         <ScrollToTop />
+        <WidgetTracker />
       </body>
     </html>
   );
