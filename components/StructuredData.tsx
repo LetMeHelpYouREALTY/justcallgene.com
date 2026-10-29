@@ -12,14 +12,6 @@ export function LocalBusinessSchema() {
   const primaryAgent = business.agents?.[0];
   const broker = business.agents?.find(agent => agent.role === 'Real Estate Broker') || business.agents?.[1];
 
-  // AggregateRating from testimonials (define before use)
-  const aggregateRating = testimonials.length > 0 ? {
-    '@type': 'AggregateRating',
-    ratingValue: '5',
-    reviewCount: testimonials.length.toString(),
-    bestRating: '5',
-    worstRating: '1',
-  } : null;
 
   // Main LocalBusiness/RealEstateAgent schema
   const localBusinessSchema = {
@@ -39,9 +31,6 @@ export function LocalBusinessSchema() {
       postalCode: business.address.postalCode,
       addressCountry: business.address.addressCountry,
     },
-    ...(aggregateRating && {
-      aggregateRating: aggregateRating,
-    }),
     // Enhanced RealEstateAgent fields
     ...(primaryAgent && {
       jobTitle: primaryAgent.role,

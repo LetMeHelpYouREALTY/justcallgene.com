@@ -72,7 +72,7 @@ export function TestimonialsSection() {
               <div className="text-xs text-slate-600">Based on proven expertise</div>
             </div>
             <div className="hover:scale-105 transition-transform duration-300">
-              <div className="text-5xl md:text-6xl font-bold text-transparent bg-gradient-to-r from-blue-600 to-primary bg-clip-text mb-3">4.9/5</div>
+              <div className="text-5xl md:text-6xl font-bold text-transparent bg-gradient-to-r from-blue-600 to-primary bg-clip-text mb-3">5.0/5</div>
               <div className="text-slate-800 font-semibold text-lg mb-1">Average Rating</div>
               <div className="text-xs text-slate-600">Across all platforms</div>
             </div>
