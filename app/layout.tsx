@@ -10,6 +10,8 @@ import { ScrollToTop } from "@/components/ui/ScrollToTop";
 import { ReadingProgress } from "@/components/ui/ReadingProgress";
 import { siteConfig } from "@/lib/config";
 import "./globals.css";
+import { Analytics as VercelAnalytics } from "@vercel/analytics/next";
+import { SpeedInsights as VercelSpeedInsights } from "@vercel/speed-insights/next";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -199,6 +201,8 @@ export default function RootLayout({
         
         <FloatingCTA />
         <ScrollToTop />
+        <VercelAnalytics />
+        <VercelSpeedInsights />
       </body>
     </html>
   );
