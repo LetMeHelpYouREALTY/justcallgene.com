@@ -149,7 +149,7 @@ const nextConfig: NextConfig = {
               // Images: Allow self, data URIs, HTTPS images, blob
               "img-src 'self' data: https: blob:",
               // Connections: Allow self, Google Analytics
-              "connect-src 'self' https://www.google-analytics.com https://www.googletagmanager.com https://www.google-analytics.com/g/collect",
+              "connect-src 'self' https://www.google-analytics.com https://www.googletagmanager.com https://*.google-analytics.com https://*.analytics.google.com",
               // Frames: Allow self and Google Maps
               "frame-src 'self' https://www.google.com https://maps.google.com",
               // No objects
